@@ -1,0 +1,14 @@
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\bin\Debug\net8.0\DevamsizlikTakip_SinanElmas.exe
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\bin\Debug\net8.0\DevamsizlikTakip_SinanElmas.deps.json
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\bin\Debug\net8.0\DevamsizlikTakip_SinanElmas.runtimeconfig.json
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\bin\Debug\net8.0\DevamsizlikTakip_SinanElmas.dll
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\bin\Debug\net8.0\DevamsizlikTakip_SinanElmas.pdb
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\DevamsizlikTakip_SinanElmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\DevamsizlikTakip_SinanElmas.AssemblyInfoInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\DevamsizlikTakip_SinanElmas.AssemblyInfo.cs
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\DevamsizlikTakip_SinanElmas.csproj.CoreCompileInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\DevamsizlikTakip_SinanElmas.dll
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\refint\DevamsizlikTakip_SinanElmas.dll
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\DevamsizlikTakip_SinanElmas.pdb
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\DevamsizlikTakip_SinanElmas.genruntimeconfig.cache
+C:\Users\sinan\OneDrive\Masaüstü\DevamsizlikTakip_SinanElmas\DevamsizlikTakip_SinanElmas\obj\Debug\net8.0\ref\DevamsizlikTakip_SinanElmas.dll
